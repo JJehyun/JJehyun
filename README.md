@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JJehyun/JJehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+- IT 산업기능요원 Front-End(React) (2020.01.21 ~ 2021.12.20)
+- 여름 방학 인턴 Back-End(Spring) (2022.06.06 ~ 2022.09.02)
+---
+✍🏻 자격증
+SQLD (SQL Developer)
+ADSP (Advanced Data Analytics Semi-Professional)
+CSTS (Certified Software Test Specialist)
+정보처리산업기사
+리눅스마스터 2급
+네트워크관리사 2급
+컴퓨터활용능력 2급\
