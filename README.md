@@ -10,7 +10,7 @@ hanwha - 시스템 관제 프로젝트 구축 <br />
 lg cns - mutihshop (유럽,독일) 홈페이지 구축 <br />
 hyundai - genesis (유럽,독일,스위스) 홈페이지 구축 <br />
 
-- 이직 중 -
+-
 
 ---
 <br />
