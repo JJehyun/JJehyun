@@ -5,10 +5,11 @@
 2022.12 ~ 2023.03 CMC 12th (RN) <br />
 2023.03 ~ CMC 13th Web 파트장 <br />
 2023.04 ~ 1인 웹뷰 어플 개발 외주 <br />
-2023.08 ~ 노는 중
-hanwha - 시스템 관제 프로젝트 구축
-lg cns - mutihshop (유럽,독일) 홈페이지 구축
-hyundai - genesis (유럽,독일,스위스) 홈페이지 구축
+2023.08 ~ 노는 중 <br />
+hanwha - 시스템 관제 프로젝트 구축 <br />
+lg cns - mutihshop (유럽,독일) 홈페이지 구축 <br />
+hyundai - genesis (유럽,독일,스위스) 홈페이지 구축 <br />
+
 - 이직 중 -
 
 ---
